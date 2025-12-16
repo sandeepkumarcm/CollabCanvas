@@ -1,5 +1,9 @@
 # 🖊️ CollabCanvas
 
+## 🎥 Demo Video
+
+▶️ Watch Demo: https://youtu.be/NShlYKb8ufg
+
 **CollabCanvas** is a real-time collaborative whiteboard built by **Sandeepkumar C M** for teams, classrooms, and creative professionals.  
 It allows multiple users to draw, write, and brainstorm together seamlessly on a shared online canvas.
 
